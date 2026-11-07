@@ -1,0 +1,27 @@
+body {
+    background: #ddd;
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.box {
+    display: flex;
+}
+
+.box div {
+    width: 115px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.h { background: orange; }
+.g { background: #f05268; }
+.i { background: aquamarine; }
+.p { background: skyblue; }
+.l { background: violet; }
